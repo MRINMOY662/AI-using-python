@@ -1,15 +1,31 @@
+from Brain.AIBrain import ReplyBrain
+from Body.Listen import MicExecution
+print(">> Starting the Jasper : Wait For Some Seconds.")
 from Body.Speak import Speak
-from Body.Listen import Listen
+from Features.Clap import Tester
+print(">> Starting the Jasper : Wait For Some Seconds.")
 
-def MainExe():
-    Speak("Main Execution Has Been Started.")
+def MainExecution():
+    
+    Speak("Hello Sir")
+    Speak("I'm Jarvis, I'm ready to assist you Sir.")
     while True:
         
-        query = Listen()
+        Data = MicExecution()
+        Data = str(Data)
+        Reply = ReplyBrain(Data)
+        Speak(Reply)
         
-        if "hello" in query:
-            Speak('Hi! I am Jarvis')
-            
-        elif "bye" in query:
-            Speak("Bye Sir.")
-            break
+
+def ClapDetect():
+    query = Tester()
+    if "True-Mic" in query:
+        print("")
+        print(">> Clap Detected !! >>")
+        print("")
+        MainExecution()
+    else:
+        pass
+ClapDetect()
+
+

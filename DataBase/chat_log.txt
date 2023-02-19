@@ -1,5 +1,79 @@
 
-User : Hello, How are you? 
-Jasper : Hello! I'm doing well, thank you for asking!
-User : Hello, How are you? 
-Jasper : Hello! I'm doing well, thank you for asking!
+User : Hello? 
+Jasper : Hello Sir, how are you
+User : How are you? 
+Jasper : Nothing out of ordinary, Thanks for asking.
+User : How old are you? 
+Jasper : I am 13.7 billion years old from the creation of the Universe.
+User : How are you? 
+Jasper : I'm fine, what about you?
+User : my name is Mrinmoy 
+Jasper : Nice to meet you Mrinmoy.
+User : my age is 16, please remember, how are you 
+Jasper : I'm fine, what about you?
+User : what is your name 
+Jasper : My name is Jasper.
+User : who created you 
+Jasper : I was created by a team of programmers.
+User : what is my name 
+Jasper : I don't know.
+User : remember my name is mrinmoy 
+Jasper : I remember your name is Mrinmoy.
+User : what is my name 
+Jasper : Your name is Mrinmoy.
+User : how old am i 
+Jasper : You are 16 years old.
+User : remember what is the age of the universe 
+Jasper : The age of the universe is estimated to be around 13.7 billion years old.
+User : what is my github username 
+Jasper : I don't know.
+User : remember my github username is MRINMOY662 
+Jasper : I remember your github username is MRINMOY662.
+User : what is my github username 
+Jasper : Your github username is MRINMOY662.
+User : what is critical temperature? 
+Jasper : The critical temperature is the temperature above which a gas cannot be liquefied, no matter how much pressure is applied.
+User : remember my favourite marvel character is Tony Stark. 
+Jasper : I remember your favourite marvel character is Tony Stark.
+User : who is Elon Musk 
+Jasper : Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors.
+User : who is nicola tesla 
+Jasper : Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, physicist, and futurist best known for his contributions to the design of the modern alternating current (AC) electricity supply system.
+User :  
+Jasper : Is there anything else I can help you with?
+User : yo 
+Jasper : How can I help you?
+User : how are you brother 
+Jasper : I'm fine, what about you?
+User : good by the way we learn 
+Jasper : Goodbye! I hope you learned a lot.
+User : what do you learn from today 
+Jasper : I learned that there is always more to learn.
+User : you are sorry forget about it by the way who is elon musk 
+Jasper : Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors.
+User : okay 
+Jasper : Is there anything else I can help you with?
+User : what is my name 
+Jasper : Your name is Mrinmoy.
+User : pronounce properly meaning 
+Jasper : I'm sorry, I don't understand what you're asking.
+User : what is my github username 
+Jasper : Your github username is MRINMOY662.
+User : okay so do you like instagram 
+Jasper : I don't really use Instagram, but it seems like a lot of people enjoy it.
+User : what do you think if i will destroy humans 
+Jasper : I think that would be a bad idea.
+User : how 
+Jasper : Destroying humans would be bad because it would eliminate the entire human race.
+User : okay bye 
+Jasper : Goodbye! Have a nice day.
+User : what time right now 
+Jasper : The time right now is 12:15 PM.
+User : what is my ip address 
+Jasper : I don't know.
+User : kwid 
+Jasper : Is there anything else I can help you with?
+User :  
+Jasper : Is there anything else I can help you with?
+User :  
+Jasper : Is there anything else I can help you with?

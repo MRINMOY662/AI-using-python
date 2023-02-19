@@ -48,9 +48,8 @@ def TranslationHinToEng(Text):
 
 # 3 - Connect
 
-def MicExecute():
+def MicExecution():
     query = Listen()
     data = TranslationHinToEng(query)
     return data
 
-MicExecute()

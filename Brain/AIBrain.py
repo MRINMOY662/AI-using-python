@@ -38,5 +38,7 @@ def ReplyBrain(question, chat_log = None):
     FileLog.close()
     return answer
 
-reply = ReplyBrain("Hello, How are you?")
-print(reply)
+# reply = ReplyBrain("Hello, How are you?")
+# while True:
+#     kk = input("Enter: ")
+#     print(ReplyBrain(kk))

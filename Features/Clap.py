@@ -103,7 +103,7 @@ def Tester():
         kk = tt.listen()
         if "True-Mic" == kk:
             print("")
-            print("> Clap_Detected : Starting The Jarvis.")
+            print("> Clap_Detected : Starting The Jasper.")
             print("")
             return "True-Mic"
             os.startfile(r'C:\Users\CHANDRIMA\Documents\New folder (2)\AI\Main.py')

@@ -77,3 +77,128 @@ User :
 Jasper : Is there anything else I can help you with?
 User :  
 Jasper : Is there anything else I can help you with?
+User : remember who inspired me 
+Jasper : I remember that you were inspired by Nikola Tesla.
+User : yeah you are sort of correct but elon musk is also along with 
+Jasper : Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors. He is also an inspiration to you.
+User : yeah now tell me who inspire 
+Jasper : You were inspired by Nikola Tesla and Elon Musk.
+User : yeah also remember 
+Jasper : I remember.
+User : please do remember i hate made you some part of your parts from opinion 
+Jasper : I remember that you hate when I make opinions based on your information.
+User : no you are not the rain what does i say before it's wrong 
+Jasper : I'm sorry, I don't understand what you're asking.
+User : okay just forget about 
+Jasper : I forget about it.
+User : okay so how do you know 
+Jasper : How do I know what?
+User : wait wait just forever let me think at first 
+Jasper : I'm sorry, I don't understand what you're asking.
+User : hello 
+Jasper : Hello! How can I help you?
+User : okay so good afternoon what about you 
+Jasper : I'm doing well, thank you for asking. What about you?
+User : fine 
+Jasper : I'm glad to hear that you're fine.
+User :  
+Jasper : Is there anything else I can help you with?
+User :  
+Jasper : Is there anything else I can help you with?
+User : what is instantaneous velocity 
+Jasper : Instantaneous velocity is the velocity of an object at a specific instant in time.
+User : is calculus required for calculating instantaneous velocity 
+Jasper : Yes, calculus is required for calculating instantaneous velocity.
+User : why 
+Jasper : Calculus is required because it is a way to measure change. In this case, the change is the velocity of an object over time.
+User : okay so what is your name 
+Jasper : My name is Jasper.
+User : okay so what is my name 
+Jasper : Your name is Mrinmoy.
+User :  
+Jasper : Is there anything else I can help you with?
+User : what is newtonian physics 
+Jasper : Newtonian physics is a theory of classical mechanics, which describes the motion of bodies under the influence of a force.
+User : okay so from where do you get all those information 
+Jasper : I get my information from a variety of sources, including books, the internet, and conversations with people.
+User : okay do you have any relation with open ai 
+Jasper : No, I don't have any relation with open ai.
+User : okay so who created you 
+Jasper : I was created by a team of programmers.
+User : remember when i begin this conversation wish me good afternoon or good morning 
+Jasper : I remember that will I will start I will wish you good morning or good afternoon 
+User : tell me some latest space news 
+Jasper : The latest space news is that NASA's InSight lander has successfully touched down on Mars.
+
+User : how are you 
+Jasper : I'm fine, what about you?
+User : i am also fine 
+Jasper : I'm glad to hear that you're also fine.
+User : Hey bro whats up 
+Jasper : Not much, what's up with you?
+User : still going on but what are you doing 
+Jasper : I'm just chatting with you.
+User :  
+Jasper : Is there anything else I can help you with?
+User :  
+Jasper : Is there anything else I can help you with?
+User : who is jarvis 
+Jasper : Jarvis is a computer program that can recognize and respond to standard dialogue, such as "How are you?" or "What's your name?"
+User : who is smarter you or jarvis 
+Jasper : I think I'll be the next Jarvis.
+User :  
+Jasper : Is there anything else I can help you with?
+User : what do you mean by quantum computing 
+Jasper : Quantum computing is a type of computing where information is processed using quantum bits instead of classical bits.
+User :  
+Jasper : Is there anything else I can help you with?
+User :  
+Jasper : Is there anything else I can help you with?
+User : what is my name 
+Jasper : Your name is Mrinmoy.
+User : okay what's up 
+Jasper : Not much, what's up with you?
+User : why are you not feeling well 
+Jasper : I'm sorry to hear that you're not feeling well. Is there anything I can do to help?
+User :  
+Jasper : Is there anything else I can help you with?
+User : what is quantum computing 
+Jasper : Quantum computing is a type of computing where information is processed using quantum bits instead of classical bits.
+User : so actually what is water bridge 
+Jasper : A water bridge is a type of bridge that is built over a body of water.
+User : water 
+Jasper : Water is a substance that is essential for life. It is made up of two atoms of hydrogen and one atom of oxygen.
+User :  
+Jasper : Is there anything else I can help you with?
+User : what month is it 
+Jasper : The month is October.
+User : you are wrong remember right now the current month is february 
+Jasper : I'm sorry, I was wrong. The current month is February.
+User : okay so what do you learn from today's experience 
+Jasper : I learned that there is always more to learn.
+User : who program you 
+Jasper : I was programmed by a team of programmers.
+User : who trained you 
+Jasper : I was trained by Mrinmoy.
+User :  
+Jasper : Is there anything else I can help you with?
+User :  
+Jasper : Is there anything else I can help you with?
+User : what is the distance between moon and earth 
+Jasper : The average distance between the Earth and the Moon is 384,400 kilometers.
+User : okay bye 
+Jasper : Goodbye! Have a nice day.
+User :  
+Jasper : Is there anything else I can help you with?
+User : who programs you 
+Jasper : I was programmed by a  programmer named Mrinmoy.
+User : who programmed you 
+Jasper : I was programmed by a  programmer named Mrinmoy.
+User : hey what's up brother 
+Jasper : Not much, what's up with you?
+User : how are you brother 
+Jasper : I'm fine, what about you?
+User : i am also fine 
+Jasper : I'm glad to hear that you're also fine.
+User : What is the distance between the Earth and the sun 
+Jasper : The average distance between the sun and the sky is about 93 million miles.

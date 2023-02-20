@@ -1,0 +1,88 @@
+
+Question : An airplane accelerates down a runway at 3.20 m/s2 for 32.8 s until is finally lifts off the ground. Determine the distance traveled before takeoff. 
+Ans : The distance traveled is 1720 meters.
+Question : A car starts from rest and accelerates uniformly over a time of 5.21 seconds for a distance of 110 m. Determine the acceleration of the car. 
+Ans : The acceleration of the car is 8.10 m/s^2.
+Question : what is physics 
+Ans : Physics is the study of the natural world. It encompasses the behavior of matter and energy on a wide range of scales, from the subatomic to the cosmic.
+Question : what is deep-learning 
+Ans : Deep learning is a subset of machine learning in which algorithms are used to model high-level abstractions in data.
+Question : what is algorithm 
+Ans : In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or perform a computation.
+Question : what is superconductivity 
+Ans : Superconductivity is a phenomenon of exactly zero electrical resistance and expulsion of magnetic flux fields occurring in certain materials, called superconductors, when cooled below a characteristic critical temperature.
+Question : what is chemistry 
+Ans : Chemistry is the study of the composition, structure, properties, and reactions of matter.
+Question : what is kinematics 
+Ans : Kinematics is the branch of mechanics that studies the motion of bodies without regard to their mass or the forces that cause the motion.
+Question : what is m? 
+Ans : M is the mass of an object.
+Question : what is m 
+Ans : M is the mass of an object.
+Question : what is universal law of gravitation 
+Ans : The universal law of gravitation is a law that states that every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.
+Question : what is the charge of electron 
+Ans : The charge of an electron is -1.60 x 10^-19 C.
+Question : what is the mass of electron 
+Ans : The mass of an electron is 9.11 x 10^-31 kg.
+Question : A race car accelerates uniformly from 18.5 m/s to 46.1 m/s in 2.47 seconds. Determine the acceleration of the car and the distance traveled. 
+Ans : The acceleration of the car is 11.2 m/s^2 and the distance traveled is 79.8 m.
+Question :  
+Ans : The question is unclear.
+Question : A bike accelerates uniformly from rest to a speed of 7.10 m/s over a distance of 35.4 m. Determine the acceleration of the bike. 
+Ans : The acceleration of the bike is 0.712 m/s^2.
+Question : An engineer is designing the runway for an airport. Of the planes that will use the airport, the lowest acceleration rate is likely to be 3 m/s2. The takeoff speed for this plane will be 65 m/s. Assuming this minimum acceleration, what is the minimum allowed length for the runway? 
+Ans : The minimum allowed length for the runway is 704 m.
+Question :  
+Ans : The question is unclear.
+Question : what is nuclear science 
+Ans : Nuclear science is the study of the nuclei of atoms and the interactions between them.
+Question : write a poem on science and technology 
+Ans : Science and technology,
+The two great pillars of our society.
+
+Science gives us knowledge,
+Technology gives us power.
+
+With science we can understand the world,
+With technology we can change it.
+
+Science is the quest for truth,
+Technology is the application of that truth.
+
+Science is the light that illuminates the way,
+Technology is the hand that builds the future.
+Question : can velocity be negative 
+Ans : Yes, velocity can be negative. Velocity is a vector quantity, so it has a magnitude and a direction. The direction can be either positive or negative, depending on the reference frame.
+Question : what are vectors 
+Ans : Vectors are mathematical objects that have both a magnitude and a direction. They can be used to represent physical quantities that have both a magnitude and a direction, such as force, velocity, and displacement.
+Question :  
+Ans : The question is unclear.
+Question : If log 2 = 0.3010 and log 3 = 0.4771, the value of log5 512 is 
+Ans : 3.875
+Question : If log 2 = 03.301 and log 3 = 0.4771, find the value of log3 725 
+Ans : 19.46
+Question : If log 2 = 03.301 and log 3 = 0.4771, find the value of log3 725 
+Ans : 19.46
+Question :  If x, y and z are the sides of a right angled triangle, where �z� is the hypotenuse, then find the value of (1/logx+zy) + (1/logx-zy) 
+Ans : 2
+Question : okay what is velocity 
+Ans : Velocity is a vector quantity that measures the rate of change of position of an object. It has a magnitude (the speed) and a direction.
+
+Question : ok so what is the diameter of moon 
+Ans : The diameter of the moon is 3,474 kilometers.
+Question : what is jarvis 
+Ans : Jarvis is a computer program that can recognize and respond to standard dialogue, such as "How are you?" or "What's your name?"
+
+Question : okay so what is quantum computing 
+Ans : Quantum computing is a type of computing where information is processed using quantum bits instead of classical bits. This makes quantum computers much faster and more powerful than traditional computers.
+Question : what is quantum computing 
+Ans : Quantum computing is a type of computing where information is processed using quantum bits instead of classical bits. This makes quantum computers much faster and more powerful than traditional computers.
+Question : abe what is quantum computing 
+Ans : Quantum computing is a type of computing where information is processed using quantum bits instead of classical bits. This makes quantum computers much faster and more powerful than traditional computers.
+Question : what is the distance between moon and earth 
+Ans : The average distance between the moon and the earth is 384,400 kilometers.
+Question : what is ccd 
+Ans : CCD stands for charge-coupled device. It is a type of image sensor used in digital cameras and other imaging devices.
+Question : what is quantum computing 
+Ans : Quantum computing is a type of computing where information is processed using quantum bits instead of classical bits. This makes quantum computers much faster and more powerful than traditional computers.
